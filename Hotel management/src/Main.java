@@ -16,7 +16,7 @@ public class Main {
             Connection con= DriverManager.getConnection(url,username,password);
             Scanner sc=new Scanner(System.in);
             while(true){
-                System.out.println("HOTEL AMVB");
+                System.out.println("HOTEL GRAND-AURA");
                 System.out.println("1.Reserve a room.");
                 System.out.println("2.view reservations");
                 System.out.println("3.Get room number");
